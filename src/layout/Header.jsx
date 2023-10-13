@@ -7,7 +7,12 @@ function Header() {
                 </a>
                 <ul id="nav-mobile" className="right hide-on-med-and-down">
                     <li>
-                        <a href="collapsible.html">Repo</a>
+                        <a
+                            href="https://github.com/alihuseynzade23/react-movies"
+                            target="_blank"
+                        >
+                            Repo
+                        </a>
                     </li>
                 </ul>
             </div>
